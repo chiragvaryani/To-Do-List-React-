@@ -1,0 +1,22 @@
+h1{
+  font-weight: 740;
+  margin: 10px;
+  margin-bottom: 18px;
+  font-size: 45px;
+}
+
+input{
+  width: 100%;
+}
+
+.text-left{
+  text-align: left;
+}
+
+.cg-row{
+  margin: 10px 7px;
+}
+
+.cg-btn{
+  min-width: 80px;
+}
